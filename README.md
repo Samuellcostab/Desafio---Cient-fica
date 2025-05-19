@@ -1,1 +1,1 @@
-# Desafio---Cient-fica
+Repositório criado para o processo seletivo da Diretoria Científica.
